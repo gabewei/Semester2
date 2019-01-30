@@ -1,0 +1,9 @@
+.length is for arrays
+.length() is for strings
+.size is for ArrayLists
+thenewboston youtube for coding
+
+abstract methods don't have the actual code in them
+put abstract methods inside of an abstract class
+use extends in the main class to use the abstract class and its methods (which you have to add the actual code for)
+you can put normal (non-abstract) methods in abstract classes
