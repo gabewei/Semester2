@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"ArrayTester","l":"ArrayTester()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"ArrayTester","l":"getColumn(int[][], int)","url":"getColumn(int[][],int)"},{"p":"<Unnamed>","c":"ArrayTester","l":"isLatin(int[][])"},{"p":"<Unnamed>","c":"ArrayTester","l":"main(String[])","url":"main(java.lang.String[])"}]
