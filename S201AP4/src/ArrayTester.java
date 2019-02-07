@@ -1,7 +1,7 @@
 import java.util.Arrays;
 /**
  * 
- * @author Gabe Weible
+ * @author Gabe W.
  *
  */
 public class ArrayTester {
